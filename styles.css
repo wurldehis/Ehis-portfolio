@@ -15,7 +15,7 @@ body {
 }
 
 .social-icons a:hover {
-  color: #ffc107; /* gold highlight on hover */
+  color: orange; /* gold highlight on hover */
   transition: 0.3s;
 }
 .hero a.btn {
@@ -27,7 +27,10 @@ body {
 
 .hero a.btn:hover {
   background-color: #ffc107;
-  color: #000;
+  color:white;
   transform: translateY(-3px);
   box-shadow: 0px 4px 15px rgba(0,0,0,0.4);
+}
+.container{
+    background-color: black;
 }
