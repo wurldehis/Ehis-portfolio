@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   // Typing effect
-  const roles = ["Frontend Developer", "Student", "Tech Enthusiast"];
+  const roles = ["FRONTEND DEVELOPER", "IT STUDENT", "TECH ENTHUSIAST"];
   let i = 0, j = 0, current = "", isDeleting = false;
   const typingElement = document.getElementById("typing");
 
