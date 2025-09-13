@@ -3,7 +3,7 @@ body {
 }
 
 .hero {
-  background: linear-gradient(black,white),
+  background: linear-gradient(black,rgb(126, 197, 255)),
               url('banner.jpg') no-repeat center center/cover;
   height: 100vh;
   padding-top: 60px;
